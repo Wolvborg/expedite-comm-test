@@ -12,5 +12,13 @@
       type: String,
       required: false,
     },
+    height: {
+      type: Number,
+      required: false,
+    },
+    width: {
+      type: Number,
+      required: false,
+    },
   });
 </script>
